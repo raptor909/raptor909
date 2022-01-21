@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @raptor909
-- 👀 I’m interested in web and game development
-- 🌱 I’m currently learning JavaScript
+- Hi, I’m @raptor909
+- I'm a beginner-intermidiate programmer
+- I'm interested in web and game development
+- I'm currently learning JavaScript
