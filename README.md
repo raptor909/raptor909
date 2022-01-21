@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @raptor909
+- 👀 I’m interested in Web and Game development
+- 🌱 I’m currently learning JavaScript
